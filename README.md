@@ -1,0 +1,2 @@
+# Decontextualizing-Ratings-Estimating-Dining-Experience-via-Residual-Modeling
+Restaurant ratings are shaped by more than food and service — factors like location, price, and popularity confound what the score actually reflects. This project isolates the "true dining experience" by modeling expected ratings based on contextual attributes and treating the residuals as a proxy for intrinsic quality. 
