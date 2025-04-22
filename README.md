@@ -4,6 +4,8 @@ Restaurant ratings are shaped by more than food and servics. Non-experiential fa
 ### Repo guide
 In the Data_cleaning.ipynb file, we removed restaurants located outside Philadelphia, removed food trucks, converted Google’s price indicators into categorical variables, filled missing values using the median, and grouped restaurant types into broader categories.
 
+In EDA.ipynb, we show some of our preliminary exploratory data analysis. 
+
 In raw_model.ipynb, we regressed rating solely on a restaurant’s location. Using cross-validation, we computed the optimal 
 k
 k for the KNN method and made a simple estimate.
